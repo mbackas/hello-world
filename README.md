@@ -1,3 +1,3 @@
 # hello-world
-Groundbreaking ideas
+Groundbreaking ideas\n
 Give everyone ponies
